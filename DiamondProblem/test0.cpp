@@ -30,8 +30,7 @@ public:
 };
 
 int main() {
-    Snake snake;
-    snake.breathe();
+    
 
     return 0;
 }
